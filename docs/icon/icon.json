@@ -1,12 +1,13 @@
 {
-    "name": "<name>",
-    "license": "Public Domain",
-    "url": "<url>",
+    "name": "Platformer Art Deluxe",
+    "license": "CC0 1.0 Universal",
+    "url": "http://kenney.nl/assets/platformer-art-deluxe",
     "author": {
-        "name": "<author>",
-        "url": "<author url>"
+        "name": "Kenney",
+        "url": "http://kenney.nl/"
     },
     "tags": [
-        "<tags>"
+        "platformer",
+        "tile"
     ]
 }
