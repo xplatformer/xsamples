@@ -1,12 +1,17 @@
 # XSamples #
-##### Language: C/C++
-***
-#### Summary
+
+## Summary
+
 
 XSamples provides a collection of *XWindows* starter code that was used in the XPlatformer project.  All the examples make use of the XLib API (XOrg) and focus on code that was developed in the XPlatformer project (or planned to be used).  
-The point of the examples is to demonstrate techniques used by the XPlatform project.
 
-##### Libraries
+The point of the examples is to demonstrate how to use the XGameLib library.
+
+## Examples
+
+See [examples.md](examples.md) for a list of the examples present.
+
+## Dependencies
 
 * libx11-dev
 * mesa-common-dev

@@ -1,4 +1,4 @@
-# XSamples #
+# XSamples
 
 ## Summary
 
