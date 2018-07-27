@@ -1,26 +1,23 @@
-# XSamples: Clipping #
-##### X Windows and XLib
-***
-#### Summary
+# XSamples: Clipping
+
+## Summary
 
 XSamples provides a collection of *XWindows* starter code that was used in the XPlatformer project.  All the examples make use of the XLib API (XOrg) and focus on code that was developed in the XPlatformer project (or planned to be used).  The point of the examples is to demonstrate techniques used by the XPlatform project.
-		 
-##### Description
+
 The following is a sample that shows basic graphics usage using the helper files created for use in the XPlatformer project.  In this sample the `XInfo` is primarily used to perform common drawing functions, and clipping tasks.  This sample shows specifically how to display images with a clipmask as well as applying a clip mask to full display.
 
-##### Compile Instructions
+## Getting started
 
-To make ("compile and link") an example, use the included makefile with 
-the name of cpp file passed as a variable. For example, to make null.cpp:
+To make ("compile and link") an example, use the included makefile with the name of cpp file passed as a variable. You can do this with the following command:
 
-	make NAME="null"
+Then you can run the following:
+
+```bash
+make
+```
 
 Then, to run:
 
-	./null
-
-Or you can even do it one step:
-
-	make run NAME="Clipping"
-
-    ./Clipping     Demos clipping using a spritesheet.
+```bash
+make run
+```

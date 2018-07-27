@@ -1,23 +1,21 @@
-# XSamples: Null #
-##### X Windows and XLib
-***
-#### Summary
+# XSamples: Null
+
+## Summary
 
 XSamples provides a collection of *XWindows* starter code that was used in the XPlatformer project.  All the examples make use of the XLib API (XOrg) and focus on code that was developed in the XPlatformer project (or planned to be used).  The point of the examples is to demonstrate techniques used by the XPlatform project.
 
-##### Compile Instructions
+## Getting started
 
-To make ("compile and link") an example, use the included makefile with 
-the name of cpp file passed as a variable. For example, to make Input.cpp:
+To make ("compile and link") an example, use the included makefile with the name of cpp file passed as a variable. You can do this with the following command:
 
-	make NAME="null"
+Then you can run the following:
+
+```bash
+make
+```
 
 Then, to run:
 
-	./null
-
-Or you can even do it one step:
-
-	make run NAME="null"
-
-    ./null     A test to verify if the XWindow system is working.
+```bash
+make run
+```
