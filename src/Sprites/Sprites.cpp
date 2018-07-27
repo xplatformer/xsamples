@@ -6,7 +6,7 @@ Description: Demos using sprite drawing functions.
 
 Notes:
 The following is a sample that shows basic sprite handling using the helper files created for use in  the XPlatformer project.  
-This sample is used for the purpose of demonstrating the usage of `Spritesheet` and `XInfo` in sprite operations.   Specifically 
+This sample is used for the purpose of demonstrating the usage of `Spritesheet` and `XInfo` in sprite operations. Specifically 
 it demonstrates how to use `XInfo` to load bitmaps or spritesheets and make use of them.  
 */
 

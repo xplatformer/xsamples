@@ -13,7 +13,11 @@ handles mouse position as mouse input was not needed in the application.
 The XInput sample is designed to show how to perform a series of basic tasks using the XPlatformer framework
 code.  However, it is important to note that a series of samples are based on concepts and ideas from
 the CS349 Interfaces course.  Specifically, the idea of Text/Polyline are derived from an example
-called "eventloop".   It is important to note that the course code only served as inspiration for the XPlatformer code.
+called "eventloop".
+
+The sample provided below is designed to show how to perform a series of basic tasks using the XGameLib library.
+
+The following code is based on demo code provided in the CS349 course. The code has been altered to fit the XGameLib approach.
 */
 
 /// Standard Libraries

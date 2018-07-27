@@ -10,10 +10,9 @@ In this sample the `XInfo` is primarily used to perform common drawing functions
 and automatically handles default management of textual and standard graphic contexts.  The sample specifically shows how to use
 drawing commands, colour manipulation and line styles.
 
-The Drawing sample is designed to show how to perform a series of basic tasks using the XPlatformer framework
-code.  However, it is important to note that a series of samples are based on concepts and ideas from
-the CS349 Interfaces course.  It is important to note that the code has been significantly changed from the original
-source in order to use the XPlatformer code.
+The sample provided below is designed to show how to perform a series of basic tasks using the XGameLib library.
+
+The following code is based on demo code provided in the CS349 course. The code has been altered to fit the XGameLib approach.
 */
 
 /// Standard Libraries

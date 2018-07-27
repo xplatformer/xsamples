@@ -7,10 +7,9 @@ Description: Demos basic animation using the framework.
 Notes:
 The Animation sample makes use of the Game loop to handle the process of animation. 
 
-The Animation sample is designed to show how to perform a series of basic tasks using the XPlatformer framework
-code.  However, it is important to note that a series of samples are based on concepts and ideas from
-the CS349 Interfaces course.  Specifically, the idea of Text/Polyline are derived from an example
-called "x11animation".   It is important to note that the course code only served as inspiration for the XPlatformer code.
+The sample provided below is designed to show how to perform a series of basic tasks using the XGameLib library.
+
+The following code is based on demo code provided in the CS349 course. The code has been altered to fit the XGameLib approach.
 */
 
 /// Standard Libraries
