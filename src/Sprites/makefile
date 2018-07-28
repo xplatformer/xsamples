@@ -2,7 +2,7 @@ NAME = "Sprites"
 
 all:
 	@echo "Compiling..."
-	g++ -o $(NAME) $(NAME).cpp -L/usr/X11R6/lib -lX11 -I../References  -lstdc++
+	g++ -o $(NAME) $(NAME).cpp -L/usr/X11R6/lib -lX11 -I../../lib/xgamelib  -lstdc++ 
 
 clean:
 	rm -f $(OBJS) *.o
