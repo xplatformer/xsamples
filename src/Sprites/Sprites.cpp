@@ -99,7 +99,7 @@ public:
 	/// Overloaded. Loads an asset that is needed for the component.
 	virtual void load(XInfo* xinfo)	
 	{
-		bool success = xinfo->loadImage("../References/player/spritesheet.tga", &img_player, "../References/player/spritesheet.xbm", &img_mask);
+		bool success = xinfo->loadImage("assets/player/spritesheet.tga", &img_player, "assets/player/spritesheet.xbm", &img_mask);
 		if(!success)
 		{
 			Logger::application_error(Logger::LOG_ASSETERROR);
@@ -212,8 +212,8 @@ public:
 
 	/// Overloaded. Loads an asset that is needed for the component.
 	virtual void load(XInfo* xinfo)	
-	{ 
-		bool success = xinfo->loadImage("../References/backgrounds/bg_grasslands.tga", &img_background);
+	{
+		bool success = xinfo->loadImage("assets/backgrounds/bg_grasslands.tga", &img_background);
 		if(!success)
 		{
 			Logger::application_error(Logger::LOG_ASSETERROR);
