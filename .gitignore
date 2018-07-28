@@ -26,9 +26,9 @@
 *.exe
 *.out
 *.app
-doc/images/
 
 # Documentation:
 docs/**/images/
 
 lib/
+lib/xgamelib
