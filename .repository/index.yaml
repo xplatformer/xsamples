@@ -1,0 +1,16 @@
+slug: xsamples
+description: XSamples provides a collection of XWindows starter code that works with the XGameLib library.
+project: xplatformer
+namespace: archive
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2017
+topics: |-
+  [
+    "x11",
+    "platformer",
+    "samples"
+  ]
